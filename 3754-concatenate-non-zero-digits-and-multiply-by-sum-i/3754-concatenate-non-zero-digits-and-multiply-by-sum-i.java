@@ -6,12 +6,11 @@ class Solution {
         int count = 1;
         while(n > 0){
             int digit = n % 10;
-            if(digit != 0){
-                sum += digit;
-                num = digit*count + num;
-                count*=10;
-            }
             n /= 10;
+            if(digit == 0)continue;
+            sum += digit;
+            num = digit*count + num;
+            count*=10;
         }
         return (long) num * sum;
     }
