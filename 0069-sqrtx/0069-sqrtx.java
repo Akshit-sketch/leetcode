@@ -1,12 +1,21 @@
 class Solution {
     public int mySqrt(int x) {
-        if(x == 0 || x == 1)return x;
-        int prev = 0;
-        for(int i = 1 ; ; i++){
-            long res = (long) i * i;
-            if(res == x)return i;
-            if(res > x)return prev;
-            prev = i;
+        if(x < 2)return x;
+        int start = 0;
+        int end = x;
+        int ans = 0;
+        while(start <= end){
+            int mid = start + (end-start)/2;
+            long sq = (long) mid* mid;
+            if(sq == x)return mid;
+            else if(sq < x){
+                ans = mid;
+                start = mid+1;
+            }
+            else{
+                end = mid-1;
+            }
         }
+        return ans;
     }
 }
