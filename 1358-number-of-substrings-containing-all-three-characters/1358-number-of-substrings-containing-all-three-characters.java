@@ -2,19 +2,19 @@ class Solution {
     public int numberOfSubstrings(String s) {
         int count = 0;
         int left = 0;
-        int a = 0 , b = 0 , c = 0;
+        int a = 0;
+        int b = 0;
+        int c = 0;
         for ( int right = 0 ; right < s.length() ; right++ ) {
-            char ch = s.charAt(right);
-            if(ch == 'a')a++;
-            else if (ch == 'b')b++;
-            else if(ch == 'c')c++;
-            while ( a > 0 && b > 0 && c > 0 ){
+            if(s.charAt(right) == 'a')a++;
+            else if(s.charAt(right) == 'b')b++;
+            else c++;
+            while ( a > 0 && b > 0 && c > 0 ) {
                 count+= s.length()-right;
-                char ch2 = s.charAt(left);
+                if(s.charAt(left) == 'a')a--;
+                else if(s.charAt(left) == 'b')b--;
+                else c--;
                 left++;
-                if(ch2 == 'a')a--;
-                else if (ch2 == 'b')b--;
-                else if(ch2 == 'c')c--;
             }
         }
         return count;
