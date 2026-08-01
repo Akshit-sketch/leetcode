@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Akshit-sketch/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Akshit-sketch/leetcode/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/Akshit-sketch/leetcode/tree/master/0054-spiral-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/Akshit-sketch/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0605-can-place-flowers](https://github.com/Akshit-sketch/leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akshit-sketch/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -100,4 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Akshit-sketch/leetcode/tree/master/0605-can-place-flowers) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Akshit-sketch/leetcode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Akshit-sketch/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
