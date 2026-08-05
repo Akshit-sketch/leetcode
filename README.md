@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Akshit-sketch/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Akshit-sketch/leetcode/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/Akshit-sketch/leetcode/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/Akshit-sketch/leetcode/tree/master/0054-spiral-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/Akshit-sketch/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0605-can-place-flowers](https://github.com/Akshit-sketch/leetcode/tree/master/0605-can-place-flowers) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Akshit-sketch/leetcode/tree/master/0045-jump-game-ii) |
 | [0605-can-place-flowers](https://github.com/Akshit-sketch/leetcode/tree/master/0605-can-place-flowers) |
 ## Matrix
 |  |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Akshit-sketch/leetcode/tree/master/0234-palindrome-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/Akshit-sketch/leetcode/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
