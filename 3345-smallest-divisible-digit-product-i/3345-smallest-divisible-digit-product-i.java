@@ -1,7 +1,6 @@
 class Solution {
     public int smallestNumber(int n, int t) {
         for(int i = n ; i <= 100 ; i++){
-            System.out.println(i);
             int original = i;
             int product = 1;
             while(original > 0){
