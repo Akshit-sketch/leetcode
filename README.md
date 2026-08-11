@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Akshit-sketch/leetcode/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/Akshit-sketch/leetcode/tree/master/0054-spiral-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/Akshit-sketch/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/Akshit-sketch/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0605-can-place-flowers](https://github.com/Akshit-sketch/leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akshit-sketch/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0904-fruit-into-baskets](https://github.com/Akshit-sketch/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Akshit-sketch/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/Akshit-sketch/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0930-binary-subarrays-with-sum](https://github.com/Akshit-sketch/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 ## Sorting
 |  |
@@ -152,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Akshit-sketch/leetcode/tree/master/0389-find-the-difference) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Akshit-sketch/leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
