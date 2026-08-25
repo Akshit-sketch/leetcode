@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Akshit-sketch/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0509-fibonacci-number](https://github.com/Akshit-sketch/leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akshit-sketch/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1137-n-th-tribonacci-number](https://github.com/Akshit-sketch/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Akshit-sketch/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Akshit-sketch/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Akshit-sketch/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Akshit-sketch/leetcode/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/Akshit-sketch/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Akshit-sketch/leetcode/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Akshit-sketch/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Enumeration
 |  |
 | ------- |
@@ -179,4 +181,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Akshit-sketch/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Akshit-sketch/leetcode/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Akshit-sketch/leetcode/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
