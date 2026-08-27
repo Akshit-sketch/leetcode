@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akshit-sketch/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Akshit-sketch/leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Akshit-sketch/leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshit-sketch/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Akshit-sketch/leetcode/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Akshit-sketch/leetcode/tree/master/0076-minimum-window-substring) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Akshit-sketch/leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Akshit-sketch/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Akshit-sketch/leetcode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/Akshit-sketch/leetcode/tree/master/0045-jump-game-ii) |
@@ -191,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/Akshit-sketch/leetcode/tree/master/0183-customers-who-never-order) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Akshit-sketch/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
