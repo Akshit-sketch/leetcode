@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Akshit-sketch/leetcode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Akshit-sketch/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Akshit-sketch/leetcode/tree/master/0567-permutation-in-string) |
+| [0771-jewels-and-stones](https://github.com/Akshit-sketch/leetcode/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/Akshit-sketch/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Akshit-sketch/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Akshit-sketch/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Akshit-sketch/leetcode/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/Akshit-sketch/leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Akshit-sketch/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0771-jewels-and-stones](https://github.com/Akshit-sketch/leetcode/tree/master/0771-jewels-and-stones) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Akshit-sketch/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Akshit-sketch/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Akshit-sketch/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
