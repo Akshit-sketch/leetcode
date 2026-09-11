@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Akshit-sketch/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Akshit-sketch/leetcode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Akshit-sketch/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0516-longest-palindromic-subsequence](https://github.com/Akshit-sketch/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/Akshit-sketch/leetcode/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/Akshit-sketch/leetcode/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Akshit-sketch/leetcode/tree/master/0583-delete-operation-for-two-strings) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Akshit-sketch/leetcode/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/Akshit-sketch/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Akshit-sketch/leetcode/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/Akshit-sketch/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Akshit-sketch/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/Akshit-sketch/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Akshit-sketch/leetcode/tree/master/1143-longest-common-subsequence) |
