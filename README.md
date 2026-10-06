@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Akshit-sketch/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0680-valid-palindrome-ii](https://github.com/Akshit-sketch/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/Akshit-sketch/leetcode/tree/master/0771-jewels-and-stones) |
+| [0856-score-of-parentheses](https://github.com/Akshit-sketch/leetcode/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Akshit-sketch/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/Akshit-sketch/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Akshit-sketch/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Akshit-sketch/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Akshit-sketch/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0856-score-of-parentheses](https://github.com/Akshit-sketch/leetcode/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Akshit-sketch/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Akshit-sketch/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Akshit-sketch/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Akshit-sketch/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Akshit-sketch/leetcode/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Akshit-sketch/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Akshit-sketch/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Quicksort
