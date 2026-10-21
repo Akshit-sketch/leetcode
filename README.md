@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Akshit-sketch/leetcode/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/Akshit-sketch/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/Akshit-sketch/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0455-assign-cookies](https://github.com/Akshit-sketch/leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Akshit-sketch/leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akshit-sketch/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0904-fruit-into-baskets](https://github.com/Akshit-sketch/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Akshit-sketch/leetcode/tree/master/0075-sort-colors) |
 | [0234-palindrome-linked-list](https://github.com/Akshit-sketch/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Akshit-sketch/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0455-assign-cookies](https://github.com/Akshit-sketch/leetcode/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Akshit-sketch/leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Akshit-sketch/leetcode/tree/master/0680-valid-palindrome-ii) |
 ## String Matching
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Akshit-sketch/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Akshit-sketch/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Akshit-sketch/leetcode/tree/master/0389-find-the-difference) |
+| [0455-assign-cookies](https://github.com/Akshit-sketch/leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akshit-sketch/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akshit-sketch/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Akshit-sketch/leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Akshit-sketch/leetcode/tree/master/0045-jump-game-ii) |
+| [0455-assign-cookies](https://github.com/Akshit-sketch/leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Akshit-sketch/leetcode/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/Akshit-sketch/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1833-maximum-ice-cream-bars](https://github.com/Akshit-sketch/leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -293,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Akshit-sketch/leetcode/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/Akshit-sketch/leetcode/tree/master/0455-assign-cookies) |
 ## Bubble Sort
 |  |
 | ------- |
