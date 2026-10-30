@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Akshit-sketch/leetcode/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/Akshit-sketch/leetcode/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Akshit-sketch/leetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/Akshit-sketch/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Akshit-sketch/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/Akshit-sketch/leetcode/tree/master/0771-jewels-and-stones) |
 | [0856-score-of-parentheses](https://github.com/Akshit-sketch/leetcode/tree/master/0856-score-of-parentheses) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Akshit-sketch/leetcode/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/Akshit-sketch/leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Akshit-sketch/leetcode/tree/master/0605-can-place-flowers) |
+| [0678-valid-parenthesis-string](https://github.com/Akshit-sketch/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Akshit-sketch/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1833-maximum-ice-cream-bars](https://github.com/Akshit-sketch/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Matrix
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Akshit-sketch/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Akshit-sketch/leetcode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Akshit-sketch/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/Akshit-sketch/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Akshit-sketch/leetcode/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Akshit-sketch/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Akshit-sketch/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Akshit-sketch/leetcode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Akshit-sketch/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Akshit-sketch/leetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/Akshit-sketch/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1137-n-th-tribonacci-number](https://github.com/Akshit-sketch/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Akshit-sketch/leetcode/tree/master/1143-longest-common-subsequence) |
 ## Enumeration
@@ -297,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Akshit-sketch/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Akshit-sketch/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Akshit-sketch/leetcode/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Akshit-sketch/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Akshit-sketch/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
