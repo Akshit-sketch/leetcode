@@ -1,18 +1,18 @@
 class Solution {
     public int jump(int[] nums) {
-        int start = 0;
-        int end = 0;
-        int max = 0;
-        int jumps = 0;
         int n = nums.length;
-        while(start < n-1){
-            max = Math.max(max,start+nums[start]);
-            if(start == end){
-                jumps++;
-                end = max;
+        int l = 0;
+        int r = 0;
+        int count = 0;
+        while(r < n-1){
+            int farthest = 0;
+            for(int i = l ; i <= r ;i++){
+                farthest = Math.max(farthest,i+nums[i]);
             }
-            start++;
+            l = r+1;
+            r= farthest;
+            count++;
         }
-        return jumps;
+        return count;
     }
 }
