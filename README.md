@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshit-sketch/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Akshit-sketch/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Akshit-sketch/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Akshit-sketch/leetcode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Akshit-sketch/leetcode/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/Akshit-sketch/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Akshit-sketch/leetcode/tree/master/0242-valid-anagram) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Akshit-sketch/leetcode/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/Akshit-sketch/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Akshit-sketch/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Akshit-sketch/leetcode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Akshit-sketch/leetcode/tree/master/0172-factorial-trailing-zeroes) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Akshit-sketch/leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Akshit-sketch/leetcode/tree/master/0067-add-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/Akshit-sketch/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Linked List
 |  |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Akshit-sketch/leetcode/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/Akshit-sketch/leetcode/tree/master/0389-find-the-difference) |
 ## Design
 |  |
