@@ -333,4 +333,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Akshit-sketch/leetcode/tree/master/0042-trapping-rain-water) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Akshit-sketch/leetcode/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Akshit-sketch/leetcode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Akshit-sketch/leetcode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Akshit-sketch/leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
