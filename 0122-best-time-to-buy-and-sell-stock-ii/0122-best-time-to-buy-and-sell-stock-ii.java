@@ -3,7 +3,6 @@ class Solution {
         int min = Integer.MAX_VALUE;
         int profit = 0;
         for(int x : prices){
-            System.out.println(min);
             if(min >= x)min = x;
             else{
                 profit += x-min;
