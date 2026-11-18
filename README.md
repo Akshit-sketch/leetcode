@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Akshit-sketch/leetcode/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/Akshit-sketch/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Akshit-sketch/leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Akshit-sketch/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Akshit-sketch/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshit-sketch/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Akshit-sketch/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Akshit-sketch/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Akshit-sketch/leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Akshit-sketch/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Akshit-sketch/leetcode/tree/master/0242-valid-anagram) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Akshit-sketch/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Akshit-sketch/leetcode/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/Akshit-sketch/leetcode/tree/master/0455-assign-cookies) |
 ## Bubble Sort
