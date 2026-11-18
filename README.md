@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Akshit-sketch/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Akshit-sketch/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Akshit-sketch/leetcode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/Akshit-sketch/leetcode/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/Akshit-sketch/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshit-sketch/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Akshit-sketch/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
