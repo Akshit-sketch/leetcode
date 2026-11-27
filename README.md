@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Akshit-sketch/leetcode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/Akshit-sketch/leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Akshit-sketch/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Akshit-sketch/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Akshit-sketch/leetcode/tree/master/0070-climbing-stairs) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Akshit-sketch/leetcode/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/Akshit-sketch/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Akshit-sketch/leetcode/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
